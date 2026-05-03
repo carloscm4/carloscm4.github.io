@@ -1,32 +1,15 @@
-# gist-604b-assignment1
-GIST 604B Assignment 1: GitHub Repository Management
-**Student:** Carlos Castillo Malave  
-Course: GIST 604B - Open Source GIS  
-Module 1: Open Source Infrastructure & Workflows  
-Assignment 1: GitHub Repository Management  
-University of Arizona  
+# Carlos Castillo - GIS Portfolio
 
-## Learning Goals
-In this assignment, I'm learning:
-- GitHub repository management and organization
-- Professional documentation with Markdown
-- Writing and running Python scripts
-- Using GitHub Codespaces as a cloud development environment
-- Practicing the Git workflow (stage → commit → push)
-- Understanding how open source projects use Issues for collaboration
+## About
+I am a GIS student with experience in spatial data analysis, web mapping, and geospatial tools such as QGIS and ArcGIS Pro. I am developing skills in GitHub, Leaflet, and JavaScript alongside ArcGIS for spatial data analysis, processing, and visualization.
 
-## Repository Purpose
-This repository demonstrates GitHub skills including:
-- Creating and organizing a professional project structure
-- Writing clear technical documentation
-- Executing Python code in GitHub Codespaces
-- Using Git for version control
-- Creating labeled Issues to model collaborative workflows
+## Projects
 
-## Repository Structure
-- `docs/` - documentation
-- `scripts/` - Python scripts
-
-## Usage
-To run the hello script:
-python scripts/hello.py
+## Skills
+- Web GIS development (Leaflet.js)
+- HTML, CSS, JavaScript
+- GeoJSON data handling and visualization
+- Basic spatial data preparation and cleaning
+- QGIS / ArcGIS Pro (data export and processing)
+- Git & GitHub (version control and project hosting)
+- Local development using Node.js / npm
