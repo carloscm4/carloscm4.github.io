@@ -26,7 +26,11 @@ I am a GIS student with experience in spatial data analysis, web mapping, and ge
     ├── LICENSE
     ├── .gitignore
     ├── images/
-    │   └── <may contain various image files>
+    │   ├── bg.jpg
+    │   ├── overlay.png
+    │   ├── pic01.jpg
+    │   ├── pic02.jpg
+    │   └── pic03.jpg
     └── assets/
         ├── css/
         ├── js/
