@@ -20,15 +20,15 @@ I am a GIS student with experience in spatial data analysis, web mapping, and ge
 - Local development using Node.js / npm
 
 ## Repository Structure
-/
-├── index.html
-├── README.md
-├── LICENSE
-├── .gitignore
-├── images/
-│   └── <may contain various image files>
-└── assets/
-    ├── css/
-    ├── js/
-    ├── sass/
-    └── webfonts/
+    /
+    ├── index.html
+    ├── README.md
+    ├── LICENSE
+    ├── .gitignore
+    ├── images/
+    │   └── <may contain various image files>
+    └── assets/
+        ├── css/
+        ├── js/
+        ├── sass/
+        └── webfonts/
