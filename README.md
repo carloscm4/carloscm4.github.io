@@ -18,3 +18,17 @@ I am a GIS student with experience in spatial data analysis, web mapping, and ge
 - QGIS / ArcGIS Pro (data export and processing)
 - Git & GitHub (version control and project hosting)
 - Local development using Node.js / npm
+
+## Repository Structure
+/
+├── index.html
+├── README.md
+├── LICENSE
+├── .gitignore
+├── images/
+│   └── <may contain various image files>
+└── assets/
+    ├── css/
+    ├── js/
+    ├── sass/
+    └── webfonts/
